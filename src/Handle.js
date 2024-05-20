@@ -19,13 +19,13 @@ export default (options, { handle }) => (
           ) : (
             <React.Fragment>
               <div className="rug-handle-drop-text">
-                Drag and Drop Images Here to Upload
+                Drag and drop image here to upload
               </div>
 
-              <span>Or</span>
+              <span>or</span>
 
               <div onClick={options.openDialogue} className="rug-handle-button">
-                Select Images to Upload
+                Upload image
               </div>
             </React.Fragment>
           )}
