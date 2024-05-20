@@ -5,10 +5,10 @@
   "author": "Muhammet INAN",
   "repository": {
     "type": "git",
-    "url": "https://github.com/m-inan/react-upload-gallery.git"
+    "url": "https://github.com/stackpoint-uk/react-upload-gallery.git"
   },
   "bugs": {
-    "url": "https://github.com/m-inan/react-upload-gallery/issues"
+    "url": "https://github.com/stackpoint-uk/react-upload-gallery/issues"
   },
   "keywords": [
     "react",
